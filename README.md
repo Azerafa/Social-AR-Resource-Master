@@ -34,11 +34,8 @@ Basics&#x20;
   * [https://www.youtube.com/watch?v=x9\_cPVgvGUI](https://www.youtube.com/watch?v=x9\_cPVgvGUI)&#x20;
 * Snaps starter kit video&#x20;
   * [https://www.youtube.com/watch?v=KCshQhKnN7Y\&list=PL0rDQ-c-\_kxfvpRFhggsvyxF2q9U\_dYzo](https://www.youtube.com/watch?v=KCshQhKnN7Y\&list=PL0rDQ-c-\_kxfvpRFhggsvyxF2q9U\_dYzo)&#x20;
-*   Basics with Ben&#x20;
-
-    * [https://www.youtube.com/watch?v=xT0CTkvzMos\&list=PL0rDQ-c-\_kxeOydIzcYAez1nFs0v7zBoa](https://www.youtube.com/watch?v=xT0CTkvzMos\&list=PL0rDQ-c-\_kxeOydIzcYAez1nFs0v7zBoa)&#x20;
-
-
+* Basics with Ben&#x20;
+  * [https://www.youtube.com/watch?v=xT0CTkvzMos\&list=PL0rDQ-c-\_kxeOydIzcYAez1nFs0v7zBoa](https://www.youtube.com/watch?v=xT0CTkvzMos\&list=PL0rDQ-c-\_kxeOydIzcYAez1nFs0v7zBoa)&#x20;
 
 Official Documentation&#x20;
 
@@ -56,21 +53,19 @@ Forum (search for previously answered questions)
 
 Official Documentation&#x20;
 
-* [https://effecthouse.tiktok.com/effect-platform/learn/guides/?lang=en](https://effecthouse.tiktok.com/effect-platform/learn/guides/?lang=en) \
-
+* [https://effecthouse.tiktok.com/effect-platform/learn/guides/?lang=en](https://effecthouse.tiktok.com/effect-platform/learn/guides/?lang=en)&#x20;
 
 Forum (search for previously answered questions)
 
 * [https://discord.com/invite/effecthouse](https://discord.com/invite/effecthouse)&#x20;
 
-\
 
 
 **Lightship (Niantic - think Pokemon Go)**
 
 
 
-Official Documentation&#x20;
+Official Documentation
 
 * [ ](https://lightship.dev/docs/ardk/index.html)[https://lightship.dev/docs/ardk/index.html](https://lightship.dev/docs/ardk/index.html)&#x20;
 
