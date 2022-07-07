@@ -24,9 +24,9 @@ Forum (search for previously answered questions)
 
 
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 **Lens Studio (Snapchat)**
-
-
 
 Basics&#x20;
 
@@ -47,11 +47,9 @@ Forum (search for previously answered questions)
 
 
 
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&#x20;
 
 **Effect House (Tiktok)**
-
-****
 
 Official Documentation&#x20;
 
@@ -63,9 +61,9 @@ Forum (search for previously answered questions)
 
 
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 **Lightship (Niantic - think Pokemon Go)**
-
-
 
 Official Documentation
 
