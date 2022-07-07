@@ -1,5 +1,7 @@
 ---
-description: How to get started and where to look for help
+description: >-
+  How to get started and where to look for help, see extra resources in the sub
+  pages
 ---
 
 # Social AR Master Learning Document
