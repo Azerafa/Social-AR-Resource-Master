@@ -45,11 +45,13 @@ Forum (search for previously answered questions)
 
 * [https://community.snap.com/snapar/categories/general](https://community.snap.com/snapar/categories/general)&#x20;
 
-\
 
 
-**Effect House (Tiktok)**\
 
+
+**Effect House (Tiktok)**
+
+****
 
 Official Documentation&#x20;
 
