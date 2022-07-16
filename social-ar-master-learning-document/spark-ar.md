@@ -20,4 +20,9 @@ Official Documentation&#x20;
 
 Forum (search for previously answered questions)
 
-* [https://www.facebook.com/groups/SparkARcommunity/](https://www.facebook.com/groups/SparkARcommunity/)&#x20;
+* [https://www.facebook.com/groups/SparkARcommunity/](https://www.facebook.com/groups/SparkARcommunity/) \
+
+
+Tutorial Resources&#x20;
+
+* [https://billynyh.github.io/spark-ar-tv/global/](https://billynyh.github.io/spark-ar-tv/global/)
