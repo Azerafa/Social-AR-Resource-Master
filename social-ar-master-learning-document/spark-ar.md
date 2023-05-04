@@ -18,7 +18,13 @@ Official Documentation&#x20;
 
 Forum (search for previously answered questions)
 
-* [https://www.facebook.com/groups/SparkARcommunity/](https://www.facebook.com/groups/SparkARcommunity/) \
+* [https://www.facebook.com/groups/SparkARcommunity/](https://www.facebook.com/groups/SparkARcommunity/)&#x20;
+
+
+
+Repos
+
+* [https://github.com/Spark-AR-Community/SparkAR-Snippets](https://github.com/Spark-AR-Community/SparkAR-Snippets)\
 
 
 Tutorial Resources&#x20;
