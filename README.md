@@ -6,6 +6,10 @@ description: >-
 
 # Social AR Master Learning Document
 
+Hello!! [I'm Alexis](https://instagram.com/alexiszerafa), and I've been playing around in the social AR space since 2017! On this gitbook you can find my attempt at aggregating some of my fav resources to get you started in AR. Some things may be out of date, but overall this should help you get started in the space!&#x20;
+
+
+
 **Spark AR (from Meta for Instagram, Facebook and Messenger)**
 
 \
