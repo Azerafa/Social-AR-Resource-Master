@@ -9,3 +9,7 @@
 ## 3D Pipeline Resources
 
 * [Blender Resource Master List](3d-pipeline-resources/blender-resource-master-list.md)
+
+## All Things Code (oooOooO scary)
+
+* [Shader Resource Master List](all-things-code-ooooooo-scary/shader-resource-master-list.md)

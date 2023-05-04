@@ -11,3 +11,9 @@ Why Blender you may ask? Because its free, and the community around the program 
 
 
 
+I will be adding to this page when I have time and stop procrastinating!&#x20;
+
+
+
+
+
