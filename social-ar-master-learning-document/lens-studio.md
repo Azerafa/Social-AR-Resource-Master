@@ -32,3 +32,9 @@ Example Projects&#x20;
 
 * [https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360061521972-List-of-Example-Projects](https://support.lensstudio.snapchat.com/hc/en-us/community/posts/360061521972-List-of-Example-Projects) &#x20;
 * [https://github.com/FrozenAtlas/OLC-Repo/tree/master/Projects%20and%20Templates](https://github.com/FrozenAtlas/OLC-Repo/tree/master/Projects%20and%20Templates)
+
+
+
+Tutorial Resources&#x20;
+
+*

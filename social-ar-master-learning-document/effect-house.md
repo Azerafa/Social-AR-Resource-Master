@@ -13,3 +13,9 @@ Official Documentation&#x20;
 Forum (search for previously answered questions)
 
 * [https://discord.com/invite/effecthouse](https://discord.com/invite/effecthouse)&#x20;
+
+
+
+Tutorial Resources&#x20;
+
+*

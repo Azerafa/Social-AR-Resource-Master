@@ -12,3 +12,9 @@ Forum (search for previously answered questions)
 
 * &#x20;[https://community.lightship.dev/](https://community.lightship.dev/)&#x20;
 * [https://discord.com/invite/QT4ZEAaQ73](https://discord.com/invite/QT4ZEAaQ73)
+
+
+
+Tutorial Resources&#x20;
+
+*
